@@ -1,0 +1,7 @@
+{
+  "fields": [
+    {"name": "driver_id", "type": "string", "nullable": false},
+    {"name": "driver_name", "type": "string", "nullable": true},
+    {"name": "rating", "type": "double", "nullable": true}
+  ]
+}

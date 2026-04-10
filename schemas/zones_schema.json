@@ -1,0 +1,6 @@
+{
+  "fields": [
+    {"name": "zone_id", "type": "integer", "nullable": false},
+    {"name": "zone_name", "type": "string", "nullable": true}
+  ]
+}

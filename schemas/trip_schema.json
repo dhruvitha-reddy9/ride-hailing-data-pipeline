@@ -1,0 +1,9 @@
+{
+  "fields": [
+    {"name": "userId", "type": "string", "nullable": true},
+    {"name": "id", "type": "string", "nullable": true},
+    {"name": "title", "type": "string", "nullable": true},
+    {"name": "body", "type": "string", "nullable": true},
+    {"name": "ingestion_time", "type": "timestamp", "nullable": true}
+  ]
+}
